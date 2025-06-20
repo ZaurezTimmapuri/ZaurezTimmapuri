@@ -1,13 +1,14 @@
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="50%">
       
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zaurez. I'm a Software developer and learner.   
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zaurez Timmapuri. 
+<br/> I'm a Software developer and learner.   
 
 -  An Artificial Intelligence and Data Science Engineer.
 -  Based in India.
 -  I’m focused on `Integrating AI into Mobile Infrastructure. Learning Optimal Techniques for AI - Training, Tunning and Integration`.
--  Feel free to connect to develop something cool or intresting.
+-  Feel free to connect to develop something cool or intersting.
 - <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ZaurezTimmapuri.ZaurezTimmapuri&left_color=white&right_color=black&left_text=%20%20%20%20%20%20%20%20"  />
 
     </td>
@@ -15,7 +16,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaurezTimmapuri&layout=compact&theme=defaulta&hide_border=true&langs_count=8" height="190" alt="Zaurez's Top Languages" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ZaurezTimmapuri&show_icons=true&hide_rank=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Zaurez's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZaurezTimmapuri&show_icons=true&hide_rank=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="Zaurez's GitHub Stats" />
 </div>
   </tr>
 </table>
